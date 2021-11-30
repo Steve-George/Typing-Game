@@ -1,5 +1,7 @@
 # Typing-Game
-© 2021 Steve George
+Powered by Steve George
+
+From CPH Global Laboratory
 
 Instruction:
 File->Start Game
